@@ -1,4 +1,11 @@
 #!/bin/bash
+
+# file color.sh
+# brief  Demonstration of cases 
+# author william.kloppenberg
+# lab 6.1 case
+# date 10/12/2020
+
 red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
