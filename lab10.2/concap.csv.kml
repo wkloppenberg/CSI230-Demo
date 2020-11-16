@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Somaliland, Hargeisa</name>
+<Point><coordinates>9.55,44.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Georgia and South Sandwich Islands, King Edward Point</name>
+<Point><coordinates>-54.283333,-36.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>French Southern and Antarctic Lands, Port-aux-Français</name>
+<Point><coordinates>-49.35,70.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Palestine, Jerusalem</name>
+<Point><coordinates>31.766666666666666,35.233333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aland Islands, Mariehamn</name>
+<Point><coordinates>60.116667,19.900000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nauru, Yaren</name>
+<Point><coordinates>-0.5477,166.920867</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Martin, Marigot</name>
+<Point><coordinates>18.0731,-63.082200</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tokelau, Atafu</name>
+<Point><coordinates>-9.166667,-171.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Western Sahara, El-Aaiún</name>
+<Point><coordinates>27.153611,-13.203333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Afghanistan, Kabul</name>
+<Point><coordinates>34.516666666666666,69.183333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Albania, Tirana</name>
+<Point><coordinates>41.31666666666667,19.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Algeria, Algiers</name>
+<Point><coordinates>36.75,3.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>American Samoa, Pago Pago</name>
+<Point><coordinates>-14.266666666666667,-170.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Andorra, Andorra la Vella</name>
+<Point><coordinates>42.5,1.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Angola, Luanda</name>
+<Point><coordinates>-8.833333333333334,13.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anguilla, The Valley</name>
+<Point><coordinates>18.216666666666665,-63.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Antigua and Barbuda, Saint John's</name>
+<Point><coordinates>17.116666666666667,-61.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Argentina, Buenos Aires</name>
+<Point><coordinates>-34.583333333333336,-58.666667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Armenia, Yerevan</name>
+<Point><coordinates>40.166666666666664,44.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aruba, Oranjestad</name>
+<Point><coordinates>12.516666666666667,-70.033333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Australia, Canberra</name>
+<Point><coordinates>-35.266666666666666,149.133333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Austria, Vienna</name>
+<Point><coordinates>48.2,16.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Azerbaijan, Baku</name>
+<Point><coordinates>40.38333333333333,49.866667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bahamas, Nassau</name>
+<Point><coordinates>25.083333333333332,-77.350000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bahrain, Manama</name>
+<Point><coordinates>26.233333333333334,50.566667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bangladesh, Dhaka</name>
+<Point><coordinates>23.716666666666665,90.400000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Barbados, Bridgetown</name>
+<Point><coordinates>13.1,-59.616667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Belarus, Minsk</name>
+<Point><coordinates>53.9,27.566667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Belgium, Brussels</name>
+<Point><coordinates>50.833333333333336,4.333333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Belize, Belmopan</name>
+<Point><coordinates>17.25,-88.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Benin, Porto-Novo</name>
+<Point><coordinates>6.483333333333333,2.616667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bermuda, Hamilton</name>
+<Point><coordinates>32.28333333333333,-64.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bhutan, Thimphu</name>
+<Point><coordinates>27.466666666666665,89.633333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bolivia, La Paz</name>
+<Point><coordinates>-16.5,-68.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bosnia and Herzegovina, Sarajevo</name>
+<Point><coordinates>43.86666666666667,18.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Botswana, Gaborone</name>
+<Point><coordinates>-24.633333333333333,25.900000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Brazil, Brasilia</name>
+<Point><coordinates>-15.783333333333333,-47.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>British Virgin Islands, Road Town</name>
+<Point><coordinates>18.416666666666668,-64.616667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Brunei Darussalam, Bandar Seri Begawan</name>
+<Point><coordinates>4.883333333333333,114.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bulgaria, Sofia</name>
+<Point><coordinates>42.68333333333333,23.316667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Burkina Faso, Ouagadougou</name>
+<Point><coordinates>12.366666666666667,-1.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Myanmar, Rangoon</name>
+<Point><coordinates>16.8,96.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Burundi, Bujumbura</name>
+<Point><coordinates>-3.3666666666666667,29.350000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cambodia, Phnom Penh</name>
+<Point><coordinates>11.55,104.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cameroon, Yaounde</name>
+<Point><coordinates>3.8666666666666667,11.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Canada, Ottawa</name>
+<Point><coordinates>45.416666666666664,-75.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cape Verde, Praia</name>
+<Point><coordinates>14.916666666666666,-23.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cayman Islands, George Town</name>
+<Point><coordinates>19.3,-81.383333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Central African Republic, Bangui</name>
+<Point><coordinates>4.366666666666666,18.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chad, N'Djamena</name>
+<Point><coordinates>12.1,15.033333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chile, Santiago</name>
+<Point><coordinates>-33.45,-70.666667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>China, Beijing</name>
+<Point><coordinates>39.916666666666664,116.383333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Christmas Island, The Settlement</name>
+<Point><coordinates>-10.416666666666666,105.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cocos Islands, West Island</name>
+<Point><coordinates>-12.166666666666666,96.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Colombia, Bogota</name>
+<Point><coordinates>4.6,-74.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Comoros, Moroni</name>
+<Point><coordinates>-11.7,43.233333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Democratic Republic of the Congo, Kinshasa</name>
+<Point><coordinates>-4.316666666666666,15.300000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Republic of Congo, Brazzaville</name>
+<Point><coordinates>-4.25,15.283333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cook Islands, Avarua</name>
+<Point><coordinates>-21.2,-159.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Costa Rica, San Jose</name>
+<Point><coordinates>9.933333333333334,-84.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cote d'Ivoire, Yamoussoukro</name>
+<Point><coordinates>6.816666666666666,-5.266667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Croatia, Zagreb</name>
+<Point><coordinates>45.8,16.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cuba, Havana</name>
+<Point><coordinates>23.116666666666667,-82.350000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Curaçao, Willemstad</name>
+<Point><coordinates>12.1,-68.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cyprus, Nicosia</name>
+<Point><coordinates>35.166666666666664,33.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Czech Republic, Prague</name>
+<Point><coordinates>50.083333333333336,14.466667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Denmark, Copenhagen</name>
+<Point><coordinates>55.666666666666664,12.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Djibouti, Djibouti</name>
+<Point><coordinates>11.583333333333334,43.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dominica, Roseau</name>
+<Point><coordinates>15.3,-61.400000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dominican Republic, Santo Domingo</name>
+<Point><coordinates>18.466666666666665,-69.900000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ecuador, Quito</name>
+<Point><coordinates>-0.21666666666666667,-78.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Egypt, Cairo</name>
+<Point><coordinates>30.05,31.250000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>El Salvador, San Salvador</name>
+<Point><coordinates>13.7,-89.200000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Equatorial Guinea, Malabo</name>
+<Point><coordinates>3.75,8.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Eritrea, Asmara</name>
+<Point><coordinates>15.333333333333334,38.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Estonia, Tallinn</name>
+<Point><coordinates>59.43333333333333,24.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ethiopia, Addis Ababa</name>
+<Point><coordinates>9.033333333333333,38.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Falkland Islands, Stanley</name>
+<Point><coordinates>-51.7,-57.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Faroe Islands, Torshavn</name>
+<Point><coordinates>62,-6.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fiji, Suva</name>
+<Point><coordinates>-18.133333333333333,178.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Finland, Helsinki</name>
+<Point><coordinates>60.166666666666664,24.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>France, Paris</name>
+<Point><coordinates>48.86666666666667,2.333333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>French Polynesia, Papeete</name>
+<Point><coordinates>-17.533333333333335,-149.566667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gabon, Libreville</name>
+<Point><coordinates>0.38333333333333336,9.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>The Gambia, Banjul</name>
+<Point><coordinates>13.45,-16.566667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Georgia, Tbilisi</name>
+<Point><coordinates>41.68333333333333,44.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Germany, Berlin</name>
+<Point><coordinates>52.516666666666666,13.400000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ghana, Accra</name>
+<Point><coordinates>5.55,-0.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gibraltar, Gibraltar</name>
+<Point><coordinates>36.13333333333333,-5.350000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Greece, Athens</name>
+<Point><coordinates>37.983333333333334,23.733333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Greenland, Nuuk</name>
+<Point><coordinates>64.18333333333334,-51.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grenada, Saint George's</name>
+<Point><coordinates>12.05,-61.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guam, Hagatna</name>
+<Point><coordinates>13.466666666666667,144.733333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guatemala, Guatemala City</name>
+<Point><coordinates>14.616666666666667,-90.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guernsey, Saint Peter Port</name>
+<Point><coordinates>49.45,-2.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guinea, Conakry</name>
+<Point><coordinates>9.5,-13.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guinea-Bissau, Bissau</name>
+<Point><coordinates>11.85,-15.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Guyana, Georgetown</name>
+<Point><coordinates>6.8,-58.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Haiti, Port-au-Prince</name>
+<Point><coordinates>18.533333333333335,-72.333333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vatican City, Vatican City</name>
+<Point><coordinates>41.9,12.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Honduras, Tegucigalpa</name>
+<Point><coordinates>14.1,-87.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hungary, Budapest</name>
+<Point><coordinates>47.5,19.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Iceland, Reykjavik</name>
+<Point><coordinates>64.15,-21.950000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>India, New Delhi</name>
+<Point><coordinates>28.6,77.200000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Indonesia, Jakarta</name>
+<Point><coordinates>-6.166666666666667,106.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Iran, Tehran</name>
+<Point><coordinates>35.7,51.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Iraq, Baghdad</name>
+<Point><coordinates>33.333333333333336,44.400000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ireland, Dublin</name>
+<Point><coordinates>53.31666666666667,-6.233333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Isle of Man, Douglas</name>
+<Point><coordinates>54.15,-4.483333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Israel, Jerusalem</name>
+<Point><coordinates>31.766666666666666,35.233333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Italy, Rome</name>
+<Point><coordinates>41.9,12.483333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jamaica, Kingston</name>
+<Point><coordinates>18,-76.800000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Japan, Tokyo</name>
+<Point><coordinates>35.68333333333333,139.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jersey, Saint Helier</name>
+<Point><coordinates>49.18333333333333,-2.100000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jordan, Amman</name>
+<Point><coordinates>31.95,35.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kazakhstan, Astana</name>
+<Point><coordinates>51.166666666666664,71.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kenya, Nairobi</name>
+<Point><coordinates>-1.2833333333333332,36.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kiribati, Tarawa</name>
+<Point><coordinates>-0.8833333333333333,169.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>North Korea, Pyongyang</name>
+<Point><coordinates>39.016666666666666,125.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Korea, Seoul</name>
+<Point><coordinates>37.55,126.983333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kosovo, Pristina</name>
+<Point><coordinates>42.666666666666664,21.166667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kuwait, Kuwait City</name>
+<Point><coordinates>29.366666666666667,47.966667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kyrgyzstan, Bishkek</name>
+<Point><coordinates>42.86666666666667,74.600000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Laos, Vientiane</name>
+<Point><coordinates>17.966666666666665,102.600000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Latvia, Riga</name>
+<Point><coordinates>56.95,24.100000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lebanon, Beirut</name>
+<Point><coordinates>33.86666666666667,35.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lesotho, Maseru</name>
+<Point><coordinates>-29.316666666666666,27.483333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Liberia, Monrovia</name>
+<Point><coordinates>6.3,-10.800000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Libya, Tripoli</name>
+<Point><coordinates>32.88333333333333,13.166667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Liechtenstein, Vaduz</name>
+<Point><coordinates>47.13333333333333,9.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lithuania, Vilnius</name>
+<Point><coordinates>54.68333333333333,25.316667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Luxembourg, Luxembourg</name>
+<Point><coordinates>49.6,6.116667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Macedonia, Skopje</name>
+<Point><coordinates>42,21.433333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Madagascar, Antananarivo</name>
+<Point><coordinates>-18.916666666666668,47.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Malawi, Lilongwe</name>
+<Point><coordinates>-13.966666666666667,33.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Malaysia, Kuala Lumpur</name>
+<Point><coordinates>3.1666666666666665,101.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Maldives, Male</name>
+<Point><coordinates>4.166666666666667,73.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mali, Bamako</name>
+<Point><coordinates>12.65,-8.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Malta, Valletta</name>
+<Point><coordinates>35.88333333333333,14.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Marshall Islands, Majuro</name>
+<Point><coordinates>7.1,171.383333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mauritania, Nouakchott</name>
+<Point><coordinates>18.066666666666666,-15.966667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mauritius, Port Louis</name>
+<Point><coordinates>-20.15,57.483333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mexico, Mexico City</name>
+<Point><coordinates>19.433333333333334,-99.133333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Federated States of Micronesia, Palikir</name>
+<Point><coordinates>6.916666666666667,158.150000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Moldova, Chisinau</name>
+<Point><coordinates>47,28.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Monaco, Monaco</name>
+<Point><coordinates>43.733333333333334,7.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mongolia, Ulaanbaatar</name>
+<Point><coordinates>47.916666666666664,106.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Montenegro, Podgorica</name>
+<Point><coordinates>42.43333333333333,19.266667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Montserrat, Plymouth</name>
+<Point><coordinates>16.7,-62.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Morocco, Rabat</name>
+<Point><coordinates>34.016666666666666,-6.816667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mozambique, Maputo</name>
+<Point><coordinates>-25.95,32.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Namibia, Windhoek</name>
+<Point><coordinates>-22.566666666666666,17.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nepal, Kathmandu</name>
+<Point><coordinates>27.716666666666665,85.316667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Netherlands, Amsterdam</name>
+<Point><coordinates>52.35,4.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New Caledonia, Noumea</name>
+<Point><coordinates>-22.266666666666666,166.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New Zealand, Wellington</name>
+<Point><coordinates>-41.3,174.783333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nicaragua, Managua</name>
+<Point><coordinates>12.133333333333333,-86.250000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Niger, Niamey</name>
+<Point><coordinates>13.516666666666667,2.116667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nigeria, Abuja</name>
+<Point><coordinates>9.083333333333334,7.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Niue, Alofi</name>
+<Point><coordinates>-19.016666666666666,-169.916667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norfolk Island, Kingston</name>
+<Point><coordinates>-29.05,167.966667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Northern Mariana Islands, Saipan</name>
+<Point><coordinates>15.2,145.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norway, Oslo</name>
+<Point><coordinates>59.916666666666664,10.750000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oman, Muscat</name>
+<Point><coordinates>23.616666666666667,58.583333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pakistan, Islamabad</name>
+<Point><coordinates>33.68333333333333,73.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Palau, Melekeok</name>
+<Point><coordinates>7.483333333333333,134.633333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Panama, Panama City</name>
+<Point><coordinates>8.966666666666667,-79.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Papua New Guinea, Port Moresby</name>
+<Point><coordinates>-9.45,147.183333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Paraguay, Asuncion</name>
+<Point><coordinates>-25.266666666666666,-57.666667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Peru, Lima</name>
+<Point><coordinates>-12.05,-77.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Philippines, Manila</name>
+<Point><coordinates>14.6,120.966667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pitcairn Islands, Adamstown</name>
+<Point><coordinates>-25.066666666666666,-130.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Poland, Warsaw</name>
+<Point><coordinates>52.25,21.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Portugal, Lisbon</name>
+<Point><coordinates>38.71666666666667,-9.133333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Puerto Rico, San Juan</name>
+<Point><coordinates>18.466666666666665,-66.116667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Qatar, Doha</name>
+<Point><coordinates>25.283333333333335,51.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Romania, Bucharest</name>
+<Point><coordinates>44.43333333333333,26.100000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Russia, Moscow</name>
+<Point><coordinates>55.75,37.600000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Rwanda, Kigali</name>
+<Point><coordinates>-1.95,30.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Barthelemy, Gustavia</name>
+<Point><coordinates>17.883333333333333,-62.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Helena, Jamestown</name>
+<Point><coordinates>-15.933333333333334,-5.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Kitts and Nevis, Basseterre</name>
+<Point><coordinates>17.3,-62.716667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Lucia, Castries</name>
+<Point><coordinates>14,-61.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Pierre and Miquelon, Saint-Pierre</name>
+<Point><coordinates>46.766666666666666,-56.183333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saint Vincent and the Grenadines, Kingstown</name>
+<Point><coordinates>13.133333333333333,-61.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Samoa, Apia</name>
+<Point><coordinates>-13.816666666666666,-171.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>San Marino, San Marino</name>
+<Point><coordinates>43.93333333333333,12.416667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sao Tome and Principe, Sao Tome</name>
+<Point><coordinates>0.3333333333333333,6.733333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saudi Arabia, Riyadh</name>
+<Point><coordinates>24.65,46.700000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Senegal, Dakar</name>
+<Point><coordinates>14.733333333333333,-17.633333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Serbia, Belgrade</name>
+<Point><coordinates>44.833333333333336,20.500000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Seychelles, Victoria</name>
+<Point><coordinates>-4.616666666666667,55.450000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sierra Leone, Freetown</name>
+<Point><coordinates>8.483333333333333,-13.233333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Singapore, Singapore</name>
+<Point><coordinates>1.2833333333333332,103.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sint Maarten, Philipsburg</name>
+<Point><coordinates>18.016666666666666,-63.033333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Slovakia, Bratislava</name>
+<Point><coordinates>48.15,17.116667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Slovenia, Ljubljana</name>
+<Point><coordinates>46.05,14.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Solomon Islands, Honiara</name>
+<Point><coordinates>-9.433333333333334,159.950000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Somalia, Mogadishu</name>
+<Point><coordinates>2.066666666666667,45.333333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Africa, Pretoria</name>
+<Point><coordinates>-25.7,28.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>South Sudan, Juba</name>
+<Point><coordinates>4.85,31.616667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Spain, Madrid</name>
+<Point><coordinates>40.4,-3.683333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sri Lanka, Colombo</name>
+<Point><coordinates>6.916666666666667,79.833333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sudan, Khartoum</name>
+<Point><coordinates>15.6,32.533333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Suriname, Paramaribo</name>
+<Point><coordinates>5.833333333333333,-55.166667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Svalbard, Longyearbyen</name>
+<Point><coordinates>78.21666666666667,15.633333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Swaziland, Mbabane</name>
+<Point><coordinates>-26.316666666666666,31.133333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sweden, Stockholm</name>
+<Point><coordinates>59.333333333333336,18.050000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Switzerland, Bern</name>
+<Point><coordinates>46.916666666666664,7.466667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Syria, Damascus</name>
+<Point><coordinates>33.5,36.300000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Taiwan, Taipei</name>
+<Point><coordinates>25.033333333333335,121.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tajikistan, Dushanbe</name>
+<Point><coordinates>38.55,68.766667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tanzania, Dar es Salaam</name>
+<Point><coordinates>-6.8,39.283333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thailand, Bangkok</name>
+<Point><coordinates>13.75,100.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Timor-Leste, Dili</name>
+<Point><coordinates>-8.583333333333334,125.600000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Togo, Lome</name>
+<Point><coordinates>6.116666666666666,1.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tonga, Nuku'alofa</name>
+<Point><coordinates>-21.133333333333333,-175.200000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trinidad and Tobago, Port of Spain</name>
+<Point><coordinates>10.65,-61.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tunisia, Tunis</name>
+<Point><coordinates>36.8,10.183333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Turkey, Ankara</name>
+<Point><coordinates>39.93333333333333,32.866667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Turkmenistan, Ashgabat</name>
+<Point><coordinates>37.95,58.383333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Turks and Caicos Islands, Grand Turk</name>
+<Point><coordinates>21.466666666666665,-71.133333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tuvalu, Funafuti</name>
+<Point><coordinates>-8.516666666666667,179.216667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Uganda, Kampala</name>
+<Point><coordinates>0.31666666666666665,32.550000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ukraine, Kyiv</name>
+<Point><coordinates>50.43333333333333,30.516667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>United Arab Emirates, Abu Dhabi</name>
+<Point><coordinates>24.466666666666665,54.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>United Kingdom, London</name>
+<Point><coordinates>51.5,-0.083333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>United States, Washington</name>
+<Point><coordinates>38.883333,-77.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Uruguay, Montevideo</name>
+<Point><coordinates>-34.85,-56.166667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Uzbekistan, Tashkent</name>
+<Point><coordinates>41.31666666666667,69.250000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vanuatu, Port-Vila</name>
+<Point><coordinates>-17.733333333333334,168.316667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Venezuela, Caracas</name>
+<Point><coordinates>10.483333333333333,-66.866667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vietnam, Hanoi</name>
+<Point><coordinates>21.033333333333335,105.850000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>US Virgin Islands, Charlotte Amalie</name>
+<Point><coordinates>18.35,-64.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Wallis and Futuna, Mata-Utu</name>
+<Point><coordinates>-13.95,-171.933333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Yemen, Sanaa</name>
+<Point><coordinates>15.35,44.200000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Zambia, Lusaka</name>
+<Point><coordinates>-15.416666666666666,28.283333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Zimbabwe, Harare</name>
+<Point><coordinates>-17.816666666666666,31.033333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>US Minor Outlying Islands, Washington</name>
+<Point><coordinates>38.883333,-77.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Antarctica, N/A</name>
+<Point><coordinates>0,0.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Northern Cyprus, North Nicosia</name>
+<Point><coordinates>35.183333,33.366667</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hong Kong, N/A</name>
+<Point><coordinates>0,0.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Heard Island and McDonald Islands, N/A</name>
+<Point><coordinates>0,0.000000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>British Indian Ocean Territory, Diego Garcia</name>
+<Point><coordinates>-7.3,72.400000</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Macau, N/A</name>
+<Point><coordinates>0,0.000000</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
