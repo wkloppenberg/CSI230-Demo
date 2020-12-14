@@ -1,0 +1,1 @@
+Mon Dec 14 01:35:16 2020  0 [14609]: The .kml file is photocoords.csv, and the log file is logfile.txt

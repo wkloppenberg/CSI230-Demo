@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Gothenburg</name>
+<Point><coordinates>11.988061,57.696378</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sandvika</name>
+<Point><coordinates>10.515475,59.917992</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cancun</name>
+<Point><coordinates>-86.781678,21.055194</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fulton</name>
+<Point><coordinates>-91.954567,38.849922</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trondheim</name>
+<Point><coordinates>10.339442,63.431842</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Las Vegas</name>
+<Point><coordinates>-115.168822,36.122728</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trondheim</name>
+<Point><coordinates>10.250108,63.420578</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trondheim</name>
+<Point><coordinates>10.122817,63.424389</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Las Vegas</name>
+<Point><coordinates>-115.173797,36.095469</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Alesund</name>
+<Point><coordinates>6.164033,62.474261</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fjord</name>
+<Point><coordinates>6.919958,62.121906</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Las Vegas</name>
+<Point><coordinates>-115.168236,36.118022</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Columbia</name>
+<Point><coordinates>-92.327919,38.925597</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Geiranger</name>
+<Point><coordinates>7.224003,62.092756</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dalsnibba</name>
+<Point><coordinates>7.269544,62.049153</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oslo</name>
+<Point><coordinates>10.735847,59.906689</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kjeholmen</name>
+<Point><coordinates>10.586381,59.877128</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Trondheim</name>
+<Point><coordinates>10.410231,63.426900</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Stockholm</name>
+<Point><coordinates>18.071528,59.325808</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New York</name>
+<Point><coordinates>-73.988664,40.750153</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New York</name>
+<Point><coordinates>-73.995369,40.703044</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Grand Canyon</name>
+<Point><coordinates>-112.144539,36.057225</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Horseshoe Bend</name>
+<Point><coordinates>-111.510636,36.879161</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chichen Itza</name>
+<Point><coordinates>-88.569458,20.683836</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Amsterdam</name>
+<Point><coordinates>4.896667,52.377047</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anaheim</name>
+<Point><coordinates>-117.901511,33.800136</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Houston</name>
+<Point><coordinates>-95.366975,29.764572</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>San Antonio</name>
+<Point><coordinates>-98.480203,29.362347</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Boston</name>
+<Point><coordinates>-71.096550,42.347094</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cambridge</name>
+<Point><coordinates>-71.090958,42.358014</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New York</name>
+<Point><coordinates>-73.973672,40.766964</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
